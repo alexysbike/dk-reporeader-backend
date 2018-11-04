@@ -1,0 +1,6 @@
+{
+  "env": {
+    "GITHUB_CLIENT_ID": "@dk-reporeader-github-client-id",
+    "GITHUB_CLIENT_SECRET": "@dk-reporeader-github-client-secret"
+  }
+}
