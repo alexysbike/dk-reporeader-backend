@@ -1,0 +1,31 @@
+{
+  "name": "dk-reporeader-backend",
+  "version": "0.0.1",
+  "description": "Backend for dk-reporeader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexysbike/dk-reporeader-backend.git"
+  },
+  "keywords": [
+    "dkrr",
+    "github",
+    "repository"
+  ],
+  "author": "Alexys Gonzalez (DK)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexysbike/dk-reporeader-backend/issues"
+  },
+  "homepage": "https://github.com/alexysbike/dk-reporeader-backend#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "dotenv": "^6.1.0",
+    "express": "^4.16.4"
+  }
+}
